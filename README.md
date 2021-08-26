@@ -2,7 +2,15 @@
 
 ## App Demo
 
-[![todo.th.gif](https://s9.gifyu.com/images/todo.th.gif)](https://gifyu.com/image/GCBF)
+[![Watch on utube](https://gifyu.com/image/GCBF)](https://youtu.be/4CaGaRVZoCQ)
+
+## screenshots
+
+![Tasks Screen](https://ibb.co/xMx6WVx)
+![Tasks Screen](https://ibb.co/D7KkygW)
+![Tasks Screen](https://ibb.co/7VG7457)
+
+
 
 ## Getting Started
 
