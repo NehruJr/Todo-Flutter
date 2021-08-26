@@ -1,6 +1,8 @@
-# todo_app
+# todo app using flutter
 
-A new Flutter project.
+## App Demo
+
+[![todo.th.gif](https://s9.gifyu.com/images/todo.th.gif)](https://gifyu.com/image/GCBF)
 
 ## Getting Started
 
